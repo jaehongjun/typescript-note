@@ -1,5 +1,5 @@
 import { useSelector, useDispatch } from "react-redux";
-import { RootState } from "../modules";
+import { RootState } from "../modules/reducers";
 import {
   decrease,
   decreaseBy,
